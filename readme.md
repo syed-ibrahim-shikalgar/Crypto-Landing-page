@@ -28,3 +28,5 @@
 - how to use display `flex-property`
 
 - How to use CSS properties like background-position and background-size
+
+## [Live-link](https://landing-page-of-crypto.netlify.app/) of the project
